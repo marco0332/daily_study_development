@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by lee.coder&nbsp;
+          Get started by next.js&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
         <div>
